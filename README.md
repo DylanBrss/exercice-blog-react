@@ -1,3 +1,7 @@
+# Youtube vidéo by Lama Dev
+**Time code: 34:31**
+*https://www.youtube.com/watch?v=0aPLk2e2Z3g&list=PLzxuMdes5HG0gzk4IFfim4B-cVQliIKvB&index=12&t=115s*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
